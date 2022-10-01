@@ -1,0 +1,15 @@
+/Users/nikolozisanaia/Projects/Exercise2/Exercise_12/bin/Debug/net6.0/Exercise_12
+/Users/nikolozisanaia/Projects/Exercise2/Exercise_12/bin/Debug/net6.0/Exercise_12.deps.json
+/Users/nikolozisanaia/Projects/Exercise2/Exercise_12/bin/Debug/net6.0/Exercise_12.runtimeconfig.json
+/Users/nikolozisanaia/Projects/Exercise2/Exercise_12/bin/Debug/net6.0/Exercise_12.dll
+/Users/nikolozisanaia/Projects/Exercise2/Exercise_12/bin/Debug/net6.0/Exercise_12.pdb
+/Users/nikolozisanaia/Projects/Exercise2/Exercise_12/obj/Debug/net6.0/Exercise_12.csproj.AssemblyReference.cache
+/Users/nikolozisanaia/Projects/Exercise2/Exercise_12/obj/Debug/net6.0/Exercise_12.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolozisanaia/Projects/Exercise2/Exercise_12/obj/Debug/net6.0/Exercise_12.AssemblyInfoInputs.cache
+/Users/nikolozisanaia/Projects/Exercise2/Exercise_12/obj/Debug/net6.0/Exercise_12.AssemblyInfo.cs
+/Users/nikolozisanaia/Projects/Exercise2/Exercise_12/obj/Debug/net6.0/Exercise_12.csproj.CoreCompileInputs.cache
+/Users/nikolozisanaia/Projects/Exercise2/Exercise_12/obj/Debug/net6.0/Exercise_12.dll
+/Users/nikolozisanaia/Projects/Exercise2/Exercise_12/obj/Debug/net6.0/refint/Exercise_12.dll
+/Users/nikolozisanaia/Projects/Exercise2/Exercise_12/obj/Debug/net6.0/Exercise_12.pdb
+/Users/nikolozisanaia/Projects/Exercise2/Exercise_12/obj/Debug/net6.0/Exercise_12.genruntimeconfig.cache
+/Users/nikolozisanaia/Projects/Exercise2/Exercise_12/obj/Debug/net6.0/ref/Exercise_12.dll

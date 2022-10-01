@@ -1,0 +1,15 @@
+/Users/nikolozisanaia/Projects/Exercise2/TwoDimensionArrays/bin/Debug/net6.0/TwoDimensionArrays
+/Users/nikolozisanaia/Projects/Exercise2/TwoDimensionArrays/bin/Debug/net6.0/TwoDimensionArrays.deps.json
+/Users/nikolozisanaia/Projects/Exercise2/TwoDimensionArrays/bin/Debug/net6.0/TwoDimensionArrays.runtimeconfig.json
+/Users/nikolozisanaia/Projects/Exercise2/TwoDimensionArrays/bin/Debug/net6.0/TwoDimensionArrays.dll
+/Users/nikolozisanaia/Projects/Exercise2/TwoDimensionArrays/bin/Debug/net6.0/TwoDimensionArrays.pdb
+/Users/nikolozisanaia/Projects/Exercise2/TwoDimensionArrays/obj/Debug/net6.0/TwoDimensionArrays.csproj.AssemblyReference.cache
+/Users/nikolozisanaia/Projects/Exercise2/TwoDimensionArrays/obj/Debug/net6.0/TwoDimensionArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolozisanaia/Projects/Exercise2/TwoDimensionArrays/obj/Debug/net6.0/TwoDimensionArrays.AssemblyInfoInputs.cache
+/Users/nikolozisanaia/Projects/Exercise2/TwoDimensionArrays/obj/Debug/net6.0/TwoDimensionArrays.AssemblyInfo.cs
+/Users/nikolozisanaia/Projects/Exercise2/TwoDimensionArrays/obj/Debug/net6.0/TwoDimensionArrays.csproj.CoreCompileInputs.cache
+/Users/nikolozisanaia/Projects/Exercise2/TwoDimensionArrays/obj/Debug/net6.0/TwoDimensionArrays.dll
+/Users/nikolozisanaia/Projects/Exercise2/TwoDimensionArrays/obj/Debug/net6.0/refint/TwoDimensionArrays.dll
+/Users/nikolozisanaia/Projects/Exercise2/TwoDimensionArrays/obj/Debug/net6.0/TwoDimensionArrays.pdb
+/Users/nikolozisanaia/Projects/Exercise2/TwoDimensionArrays/obj/Debug/net6.0/TwoDimensionArrays.genruntimeconfig.cache
+/Users/nikolozisanaia/Projects/Exercise2/TwoDimensionArrays/obj/Debug/net6.0/ref/TwoDimensionArrays.dll
